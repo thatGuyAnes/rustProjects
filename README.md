@@ -1,0 +1,2 @@
+# rustProjects
+Newbie Rust Repository
